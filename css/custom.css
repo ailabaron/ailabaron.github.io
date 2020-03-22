@@ -1,0 +1,172 @@
+
+:root{
+    --colorhighlights: #772865;
+    --colormain: #16982b;
+    
+}      
+
+
+
+body
+{line-height: 1.5em;}
+
+
+/* header area */
+
+
+
+.header .logo-wrapper {  
+    padding-top:14px;
+}
+
+.header .logo-wrapper .logo {
+    margin-top: 10px;
+    font-size: 36px;
+    font-family:"Helvetica Neue";
+    color:var(--colorhighlights)
+}
+.header .logo-wrapper .logo::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.header .logo-wrapper .description {
+    line-height: 0px;
+    padding-left: 16px;
+    font-size: 24px;
+    font-family:"Helvetica Neue";
+    color: #16982B;
+  
+}
+
+.headerimage {
+    text-align: center;
+   
+}
+.header-img{
+    opacity: 1;
+    max-width: 1080px;
+    width:100%;
+    max-height:400px;
+    object-fit: cover;
+    
+    display: block;
+    top: -20px;
+    object-position: center -60px;
+}
+
+.header .site-navbar .menu {
+    float: right;
+    padding-right: 15px;
+    font-family: Athelas,STHeiti,Microsoft Yahei,serif;
+    padding-top: 32px;
+    
+}
+
+.mobile-menu {
+    background-color: rgba(245, 245, 245, 0.83);
+}
+
+.mobile-navbar .mobile-header-logo .logo {
+    font-size: 22px;
+    line-height: 50px;
+    font-family:"Helvetica Neue";
+   
+}
+
+/* images */
+.fimg
+{   height: 300px;
+    width: 100% !important;
+    object-fit: cover;
+    object-position:  center;
+   
+}
+
+.himg
+{    padding: 4px;
+    width:30%;
+  border: 1px solid #ccc!important;
+    margin-right: 11px;
+}
+
+.rimg
+{   display: block;
+    
+    width: 50%;
+    margin-left:10px;
+}
+.rimg::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+/* content area */
+
+
+.post .post-content h1 {
+    
+    margin-top: 1em;
+}
+
+
+b, strong 
+{color: var(--colorhighlights);}
+
+h1 {color: var(--colormain);}
+ h2, h3, h4, h5, h6 {
+    color: #16982b;}
+
+
+/* quote without anführungszeichen*/
+      
+blockquote {
+  margin: 1em auto;
+  color: #555555;
+  background-color: #F6F6F6;
+  border-left: 4px solid #999;
+  position: relative;
+  line-height: 1.6;
+  font-family: Open Sans;
+
+  @include min-screen() {
+    padding: 0.2em 2em 0.2em 3em;
+
+    &::before {
+      font-family: Arial;
+      content: ""; !important
+      color: white;
+      font-size: 4em;
+      position: absolute;
+      left: 10px;
+      top: -10px;
+    }
+    }}
+
+    
+
+
+
+
+
+
+
+
+/*footer*/
+
+.footer .copyright {
+    font-family:"";
+}
+.copyright-year {
+    font-size: 0.8em;
+    color: #b5b2ac;
+}
+
+
+.footer .copyright .hexo-link, .footer .copyright .theme-link {
+    color: gray;
+}
+
