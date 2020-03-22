@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Aila Baron</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ailabaron.github.io/</link>
     <description>Recent content in Home on Aila Baron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Aila Baron</copyright>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ailabaron.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homeopathy</title>
-      <link>http://localhost:1313/homeopathy/</link>
+      <link>https://ailabaron.github.io/homeopathy/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/homeopathy/</guid>
+      <guid>https://ailabaron.github.io/homeopathy/</guid>
       
         <description>What Is Homeopathy? Homeopathy is a natural therapy that uses homeopathic remedies/medicines. Its story started over two hundred years ago when a German doctor/chemist Samuel Hahneman wanted to find a more gentle way of healing than the brutal treatments of his day. Today’s patients are also drawn to homeopathy because of its natural, gentle nature. When you visit a homeopath you will see that they give you a lot of time and space to express your health issues, emotions or whatever brings you to them.</description>
       
@@ -25,10 +25,10 @@
     
     <item>
       <title>Get Started</title>
-      <link>http://localhost:1313/get-started/</link>
+      <link>https://ailabaron.github.io/get-started/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/get-started/</guid>
+      <guid>https://ailabaron.github.io/get-started/</guid>
       
         <description>If you have not yet taken the decision to see a homeopath, maybe you can start to use homeopathic remedies for some simple acute conditions. This ,for a lot of people is their first introduction to the world of Homeopathy.
 Most people will have heard of Arnica , the most famous homeopathic remedy for injuries and bruising. Many surgeons now tell their patients to take Arnica after surgery Here is a list of some common remedies to use in acute situations:</description>
@@ -37,10 +37,10 @@ Most people will have heard of Arnica , the most famous homeopathic remedy for i
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://ailabaron.github.io/contact/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://ailabaron.github.io/contact/</guid>
       
         <description>My name is Aila Baron, RSHom
 You can reach me directly via
