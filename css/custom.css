@@ -13,16 +13,6 @@ body
 
 /* header area */
 
-/* #header.header.container
-{background-image: url(/image/landscape.jpg);
-     max-width: 1080px;
-    width:100%;
-    max-height:400px;
-    object-fit: cover;
-    display: block;
-    background-position: center -60px;
-    height: 300px;}
-*/
 .header .logo-wrapper {  
     padding-top:14px; 
     }
@@ -53,16 +43,18 @@ body
    
 }
 .header-img{
-    opacity: 1;
+     opacity: 1;
     max-width: 1080px;
     width:100%;
     max-height:300px;
     object-fit: cover;
     
-    display: block;
+    display: block    ;
     top: -20px;
-    object-position: center -100px;
+    object-position: center center;
+   
 }
+
 
 .header .site-navbar .menu {
     float: right;
@@ -83,14 +75,6 @@ body
    
 }
 
-
-.testies
-{
-background-image: url(/image/landscape.jpg);
-position: absolute;
-  background: red;
-  height: 300px;
-}
 
 
 /* images */
