@@ -15,6 +15,7 @@ body
 
 .header .logo-wrapper {  
     padding-top:14px; 
+    padding-bottom: 7px;
     }
 
 .header .logo-wrapper .logo {
@@ -31,11 +32,18 @@ body
 
 .header .logo-wrapper .description {
     line-height: 0px;
-    padding-left: 16px;
+    padding-left: 0px;
     font-size: 24px;
     font-family:"Helvetica Neue";
     color: #16982B;
  
+}
+
+.header .logo-wrapper .description i{
+  
+  font-style: normal;
+    font-size:0.8em;
+ color: rgba(22, 152, 43, 0.81);
 }
 
 .headerimage {
