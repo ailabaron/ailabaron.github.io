@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ailabaron.github.io/sitemap.xml
+Sitemap: https://www.ailabaronhomeopathy.co.uk/sitemap.xml
